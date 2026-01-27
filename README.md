@@ -99,7 +99,7 @@ Bu proje MIT lisansı ile lisanslanmıştır.
 
 Projenin teknik detaylarını, mimari kararlarını ve geliştirme sürecini içeren detaylı proje raporuna aşağıdaki linkten ulaşabilirsiniz:
 
-[📘 Proje Raporunu İncele (PDF)]("C:\Users\zehra\OneDrive\Masaüstü\Ntp_Proje_Ödevi.pdf")
+[📘 Proje Raporunu İncele (PDF)](https://github.com/zehradagasann/CafeOtomasyonu/blob/master/Ntp_Proje_%C3%96devi.pdf)
 
 
 
