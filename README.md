@@ -1,4 +1,7 @@
 AI Destekli Akıllı Kafe Otomasyonu (Smart Cafe Automation)
+
+
+
 Bu proje, geleneksel kafe yönetim süreçlerini Yapay Zeka (Generative AI) ile birleştiren modern bir otomasyon çözümüdür. Windows Forms tabanlı geliştirilen uygulama, Katmanlı Mimari yapısını kullanır ve garsonların sipariş alırken müşteriye en uygun yan ürünü önermesini sağlamak için Groq API entegrasyonuna sahiptir.
 
 🚀 Projenin Amacı
